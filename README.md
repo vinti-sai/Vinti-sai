@@ -210,65 +210,6 @@ Developed an analytical workflow to transform transaction data into insights for
 | Udemy | Data Analysis Course |
 | Codex | Data Analyst Internship |
 
----
-
-## Coding Profiles
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-vinti--sai-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vinti-sai)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/)
-
-</div>
-
----
-
-## GitHub Analytics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=vinti-sai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=818CF8&text_color=C9D1D9" alt="GitHub Stats" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinti-sai&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Top Languages" />
-
-<img src="https://streak-stats.demolab.com?user=vinti-sai&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=818CF8&currStreakLabel=A78BFA" alt="GitHub Streak" />
-
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=vinti-sai&theme=discord&no-frame=true&no-bg=true&column=6&margin-w=10" alt="GitHub Trophies" />
-
-</div>
-
----
-
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vinti-sai&bg_color=0D1117&color=A78BFA&line=6366F1&point=C4B5FD&area=true&hide_border=true" width="100%" alt="Contribution Activity Graph" />
-
-</div>
-
----
-
-## Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/vinti-sai/vinti-sai/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" />
-
-</div>
-
----
 
 ## Current Focus
 
