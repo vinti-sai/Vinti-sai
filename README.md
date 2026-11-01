@@ -1,4 +1,3 @@
-# 💫 About Me:
 About Me<br><br>🎓 I'm a student aspiring to become a Data Analyst.<br><br>🤝 I'm open to collaborating on data analytics projects.<br><br>🌱 I have mastered  Excel, SQL, Python, and Power BI.<br><br>💬 Ask me about data analysis, data cleaning, and visualization.<br><br>⚡ Fun fact: I believe every dataset has a story waiting to be discovered.
 
 
